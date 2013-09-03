@@ -28,7 +28,7 @@
 
 - (void)testExample
 {
-    XCTAssertTrue(YES, @"testExample asserten är paj")
+    XCTAssertTrue(YES, @"testExample asserten är paj");
 }
 
 - (void)testExample2
