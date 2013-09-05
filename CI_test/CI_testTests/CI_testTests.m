@@ -36,4 +36,9 @@
     XCTAssertTrue(YES, @"Woop!");
 }
 
+- (void)testFail
+{
+    XCTAssertTrue(NO, @"Testet som ska faila failar, innebär det att det lyckas..?");
+}
+
 @end
